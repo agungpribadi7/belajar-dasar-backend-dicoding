@@ -1,7 +1,3 @@
-# belajar-dasar-backend-dicoding
-Penggunaan bahasa pemrograman nodeJS dengan framework Hapi, dan penggunaan dependency ESLint agar penulisan code menjadi serumpun.
-Video pelaksaannya dapat dilihat di https://youtu.be/E6fYSknOW-E
-
 **Kriteria Submission:**
 
 Kriteria 1 : API dapat menyimpan buku
